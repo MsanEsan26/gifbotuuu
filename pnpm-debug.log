@@ -1,0 +1,398 @@
+---
+  0 debug pnpm:scope: 
+    selected: 1
+    workspacePrefix: null
+  1 info pnpm: 
+    message: "A store server is running. All store manipulations are delegated to it."
+    prefix: "/app"
+  2 debug pnpm:package-json: 
+    initial: 
+      //1: "describes your app and its dependencies"
+      //2: "https://docs.npmjs.com/files/package.json"
+      //3: "updating this file will download and update your packages"
+      version: "0.0.1"
+      description: "A simple Node app built on Express, instantly up and running."
+      main: "server.js"
+      scripts: 
+        start: "node server.js"
+      dependencies: 
+        advanced-tools: "^1.0.5"
+        animequote: "^1.1.1"
+        axios: "^0.19.2"
+        basic-instagram-user-details: "^1.0.2"
+        battlefield-stats: "^1.0.8"
+        beyazperde: "^0.1.1"
+        canvas: "^2.4.1"
+        canvas-constructor: "^3.0.3"
+        chalk: "^2.4.2"
+        cheerio: "^0.22.0"
+        cleverbot.io: "^1.0.4"
+        common-tags: "^1.8.0"
+        croxy-api: "^1.2.1"
+        dblapi.js: "^2.3.0"
+        discord.js: "^11.6.4"
+        discord.js-commando: "^0.10.0"
+        express: "^4.17.1"
+        ffmpeg-binaries: "^4.0.0"
+        figlet: "^1.2.3"
+        fortnite: "^4.3.2"
+        fortnitetracker-7days-stats: "^3.2.0"
+        generate-password: "^1.4.2"
+        get-youtube-id: "^1.0.1"
+        google: "^2.1.0"
+        he: "^1.2.0"
+        humanize-duration: "^3.18.0"
+        hurriyet: "^0.3.1"
+        instagram-profile-picture: "^1.0.5"
+        isgd: "^1.1.3"
+        jimp: "^0.6.1"
+        kitsu.js: "^2.0.0"
+        lowdb: "^1.0.0"
+        malapi: "^0.0.3"
+        math-expression-evaluator: "^1.2.17"
+        moment: "^2.27.0"
+        moment-duration-format: "^2.2.2"
+        node-google-translate-skidz: "^1.1.2"
+        node-superfetch: "^0.1.9"
+        node-valorant: "^1.0.0"
+        node-valorant-api: "^0.1.3"
+        qrcode: "^1.3.3"
+        quick.db: "^7.1.1"
+        random-puppy: "^1.1.0"
+        request: "^2.88.2"
+        request-promise-native: "^1.0.9"
+        simple-youtube-api: "^5.2.0"
+        speedtest-net: "^1.5.1"
+        steam-provider: "^0.3.2"
+        superagent: "^5.3.1"
+        svjsl: "^1.7.0"
+        tcmb-doviz: "^1.0.5"
+        tempy: "^0.3.0"
+        turkcealtyazi: "^0.3.0"
+        valorant-api-client: "^0.0.1"
+        weather-js: "^2.0.0"
+        xmlhttprequest: "^1.8.0"
+        youtube-info: "^1.3.2"
+        ytdl-core: "^0.29.2"
+      engines: 
+        node: "8.x"
+      repository: 
+        url: "https://glitch.com/edit/#!/salty-airport"
+      license: "GPL-3.0"
+      keywords: 
+        - "node"
+        - "glitch"
+        - "express"
+      gitHead: "f6c36f8c83a284149a14c5ab15fab7cf29f1b57d"
+      name: ""
+      readme: "ERROR: No README data found!"
+      _id: "@0.0.1"
+    prefix: "/app"
+  3 debug pnpm:stage: 
+    prefix: "/app"
+    stage: "resolution_started"
+  4 debug pnpm:deprecation: 
+    deprecated: "Module is no longer maintained"
+    depth: 0
+    pkgId: "registry.npmjs.org/dblapi.js/2.4.1"
+    pkgName: "dblapi.js"
+    pkgVersion: "2.4.1"
+    prefix: "/app"
+  5 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/dblapi.js/2.4.1"
+    requester: "/app"
+    status: "resolved"
+  6 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/battlefield-stats/1.0.8"
+    requester: "/app"
+    status: "resolved"
+  7 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/canvas-constructor/3.2.0"
+    requester: "/app"
+    status: "resolved"
+  8 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/cheerio/0.22.0"
+    requester: "/app"
+    status: "resolved"
+  9 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/discord.js/11.6.4"
+    requester: "/app"
+    status: "resolved"
+  10 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/chalk/2.4.2"
+    requester: "/app"
+    status: "resolved"
+  11 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/beyazperde/0.1.1"
+    requester: "/app"
+    status: "resolved"
+  12 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/canvas/2.6.1"
+    requester: "/app"
+    status: "resolved"
+  13 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/dblapi.js/2.4.1"
+    requester: "/app"
+    status: "found_in_store"
+  14 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/advanced-tools/1.0.6"
+    requester: "/app"
+    status: "resolved"
+  15 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/common-tags/1.8.0"
+    requester: "/app"
+    status: "resolved"
+  16 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/discord.js-commando/0.10.0"
+    requester: "/app"
+    status: "resolved"
+  17 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/basic-instagram-user-details/1.0.2"
+    requester: "/app"
+    status: "resolved"
+  18 debug pnpm:deprecation: 
+    deprecated: "Critical security vulnerability fixed in v0.21.1. For more information, see https://github.com/axios/axios/pull/3410"
+    depth: 0
+    pkgId: "registry.npmjs.org/axios/0.19.2"
+    pkgName: "axios"
+    pkgVersion: "0.19.2"
+    prefix: "/app"
+  19 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/axios/0.19.2"
+    requester: "/app"
+    status: "resolved"
+  20 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/cleverbot.io/1.0.4"
+    requester: "/app"
+    status: "resolved"
+  21 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/express/4.17.1"
+    requester: "/app"
+    status: "resolved"
+  22 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/fortnite/4.3.2"
+    requester: "/app"
+    status: "resolved"
+  23 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/figlet/1.5.0"
+    requester: "/app"
+    status: "resolved"
+  24 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/fortnitetracker-7days-stats/3.3.1"
+    requester: "/app"
+    status: "resolved"
+  25 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/animequote/1.1.1"
+    requester: "/app"
+    status: "resolved"
+  26 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/lowdb/1.0.0"
+    requester: "/app"
+    status: "resolved"
+  27 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/generate-password/1.6.0"
+    requester: "/app"
+    status: "resolved"
+  28 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/get-youtube-id/1.0.1"
+    requester: "/app"
+    status: "resolved"
+  29 debug pnpm:deprecation: 
+    deprecated: "use 'kitsu' on npm instead."
+    depth: 0
+    pkgId: "registry.npmjs.org/kitsu.js/2.0.0"
+    pkgName: "kitsu.js"
+    pkgVersion: "2.0.0"
+    prefix: "/app"
+  30 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/kitsu.js/2.0.0"
+    requester: "/app"
+    status: "resolved"
+  31 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/instagram-profile-picture/1.0.5"
+    requester: "/app"
+    status: "resolved"
+  32 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/google/2.1.0"
+    requester: "/app"
+    status: "resolved"
+  33 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/hurriyet/0.3.1"
+    requester: "/app"
+    status: "resolved"
+  34 debug pnpm:deprecation: 
+    deprecated: "ffmpeg-binaries is no longer being maintained. use ffmpeg-static, or just install ffmpeg"
+    depth: 0
+    pkgId: "registry.npmjs.org/ffmpeg-binaries/4.0.0"
+    pkgName: "ffmpeg-binaries"
+    pkgVersion: "4.0.0"
+    prefix: "/app"
+  35 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/ffmpeg-binaries/4.0.0"
+    requester: "/app"
+    status: "resolved"
+  36 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/humanize-duration/3.25.1"
+    requester: "/app"
+    status: "resolved"
+  37 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/isgd/1.1.3"
+    requester: "/app"
+    status: "resolved"
+  38 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/malapi/0.0.3"
+    requester: "/app"
+    status: "resolved"
+  39 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/jimp/0.6.8"
+    requester: "/app"
+    status: "resolved"
+  40 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/croxy-api/1.5.8"
+    requester: "/app"
+    status: "resolved"
+  41 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/moment-duration-format/2.3.2"
+    requester: "/app"
+    status: "resolved"
+  42 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/node-google-translate-skidz/1.1.2"
+    requester: "/app"
+    status: "resolved"
+  43 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/quick.db/7.1.3"
+    requester: "/app"
+    status: "resolved"
+  44 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/node-valorant-api/0.1.3"
+    requester: "/app"
+    status: "resolved"
+  45 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/moment/2.29.1"
+    requester: "/app"
+    status: "resolved"
+  46 debug pnpm:deprecation: 
+    deprecated: "request-promise-native has been deprecated because it extends the now deprecated request package, see https://github.com/request/request/issues/3142"
+    depth: 0
+    pkgId: "registry.npmjs.org/request-promise-native/1.0.9"
+    pkgName: "request-promise-native"
+    pkgVersion: "1.0.9"
+    prefix: "/app"
+  47 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/request-promise-native/1.0.9"
+    requester: "/app"
+    status: "resolved"
+  48 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/random-puppy/1.1.0"
+    requester: "/app"
+    status: "resolved"
+  49 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/node-superfetch/0.1.11"
+    requester: "/app"
+    status: "resolved"
+  50 debug pnpm:deprecation: 
+    deprecated: "request has been deprecated, see https://github.com/request/request/issues/3142"
+    depth: 0
+    pkgId: "registry.npmjs.org/request/2.88.2"
+    pkgName: "request"
+    pkgVersion: "2.88.2"
+    prefix: "/app"
+  51 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/request/2.88.2"
+    requester: "/app"
+    status: "resolved"
+  52 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/qrcode/1.4.4"
+    requester: "/app"
+    status: "resolved"
+  53 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/math-expression-evaluator/1.3.7"
+    requester: "/app"
+    status: "resolved"
+  54 error pnpm: 
+    message: "No matching version found for node-valorant@>=1.0.0 <2.0.0"
+    code: "ERR_PNPM_NO_MATCHING_VERSION"
+    packageMeta: 
+      name: "node-valorant"
+      dist-tags: 
+        latest: "1.0.0-beta"
+      versions: 
+        1.0.0-beta: 
+          name: "node-valorant"
+          version: "1.0.0-beta"
+          dist: 
+            integrity: "sha512-Tp8NHh1tYDWTpQdQlK64layAfTykZX2x7bEWvGPv29CYyb5MJPAaQKVngVC3l19bw3KEH97Qsz9L4YMYIZuhdg=="
+            shasum: "ef27ba967aafd756530c2213b0d8d5aa737896b2"
+            tarball: "https://registry.npmjs.org/node-valorant/-/node-valorant-1.0.0-beta.tgz"
+            fileCount: 6
+            unpackedSize: 4607
+            npm-signature: "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJe3lBxCRA9TVsSAnZWagAAHj0P/2za4OSAd88P+9Tzcmyj\nWplVYcsgzsl7r/OwdXfB6B/kEGxkD9snJJtxa9rX0Ic562vGtsp2ukGfpv1L\na4aVEtiksvme8GZ4f26JztUFkEdfmpvpYON4rmDivB57CvqK76xO8Tok1aB0\nXKo4FI4fl2cLWwL08DyHTZ8XlAE6hbztoQe2++ViY3oMTKwSn9pDnA+qE3T8\nagjSf+IhYwNsGC7UGNfJaJn69NPaasSdXWs1/ilruxzQzYihYRZB8c9g7mUr\nTl9n5VgHY25I3xlSS8rh7zsVd4FXKkH19/3Cdgakdbh6qEcy2pWwIZM6DDr0\nlGL6ehKipzPTiv81nnoRjyt5sbZlUNQJKayfmawik/+5d+JRZacNC9rL4X/v\nXoEZe9A+LoFVFrKREele/YKdrO2n/19/BCaTd08ysnVoTaV0/iR0WYkh13vp\ntanKk1CquEWe4sLDlMExFwbT5JKsjQ0uwBPWlURzpOsUF/dlf+2TVzWONI7r\nnPkPhwvCtYLM8c+XS2GtTu7RbUxGDTmgMOi4/9qM1Ko910rEF73gsQ8wEhyE\n2CTK/JhwzAWXRmYgKlNJitcajtvCVTJUUORXSe3KUP8rb5R6xI1YgAxTojlG\npWnpYNM99ypV0WmxzzlaQtUb9PpOZr1PRh6OXrF1JQTI1W67gBkeJwEqMoT0\n5vUx\r\n=0WBT\r\n-----END PGP SIGNATURE-----\r\n"
+      modified: "2020-06-08T14:51:42.127Z"
+      cachedAt: 1613571660341
+  55 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/battlefield-stats/1.0.8"
+    requester: "/app"
+    status: "found_in_store"
+  56 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/xmlhttprequest/1.8.0"
+    requester: "/app"
+    status: "resolved"
+  57 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/simple-youtube-api/5.2.1"
+    requester: "/app"
+    status: "resolved"
+  58 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/steam-provider/0.3.2"
+    requester: "/app"
+    status: "resolved"
+  59 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/svjsl/1.9.4"
+    requester: "/app"
+    status: "resolved"
+  60 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/tcmb-doviz/1.0.6"
+    requester: "/app"
+    status: "resolved"
+  61 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/superagent/5.3.1"
+    requester: "/app"
+    status: "resolved"
+  62 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/tempy/0.3.0"
+    requester: "/app"
+    status: "resolved"
+  63 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/turkcealtyazi/0.3.0"
+    requester: "/app"
+    status: "resolved"
+  64 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/valorant-api-client/0.0.1"
+    requester: "/app"
+    status: "resolved"
+  65 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/weather-js/2.0.0"
+    requester: "/app"
+    status: "resolved"
+  66 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/speedtest-net/1.6.2"
+    requester: "/app"
+    status: "resolved"
+  67 debug pnpm:deprecation: 
+    deprecated: "This package has been deprecated and no longer works."
+    depth: 0
+    pkgId: "registry.npmjs.org/youtube-info/1.3.2"
+    pkgName: "youtube-info"
+    pkgVersion: "1.3.2"
+    prefix: "/app"
+  68 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/youtube-info/1.3.2"
+    requester: "/app"
+    status: "resolved"
+  69 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/ytdl-core/0.29.7"
+    requester: "/app"
+    status: "resolved"
+  70 debug pnpm:progress: 
+    packageId: "registry.npmjs.org/he/1.2.0"
+    requester: "/app"
+    status: "resolved"
